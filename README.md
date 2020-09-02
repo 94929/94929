@@ -5,12 +5,12 @@
 *MEng Computing (Artificial Intelligence)*  
 
 ## Research Experience
-**Deep Learning for Depth Image Enhancement** | [Imperial College London](https://www.imperial.ac.uk/computing) (Oct 2018 - Jun 2019) 
+**Deep Learning for Depth Image Enhancement** | [Imperial College London](https://www.imperial.ac.uk/computing) (Oct 2018 - Jun 2019)  
 *Lead Author* (Supervised by [Dr Ronald Clark](http://www.ronnieclark.co.uk/))
   * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Work Experience
-**[Luxrobo](https://modi.luxrobo.com/)** | South Korea (Jan 2020 - present)
+**[Luxrobo](https://modi.luxrobo.com/)** | South Korea (Jan 2020 - present)  
 *Machine Learning Engineer*
   * Working as a machine learning backend engineer
 
