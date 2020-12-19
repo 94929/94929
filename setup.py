@@ -11,11 +11,11 @@ def get_readme():
 
 
 setup(
-    name="jinsung-ha",
+    name="jinsung",
     version="0.1.0",
     author="Jinsung Ha",
     author_email="jsung5381@naver.com",
-    description="Who is Jinsung Ha?",
+    description="Who is Jinsung?",
     long_description=get_readme(),
     long_description_content_type="text/markdown",
     license="MIT",
