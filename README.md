@@ -1,4 +1,4 @@
-## 안녕하세요(annyeonghaseyo), I'm Jinsung Ha!
+## About Me
 From your terminal,
 ```bash
 pip install jinsung
