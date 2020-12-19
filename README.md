@@ -1,14 +1,18 @@
-# About Me
+## 안녕하세요(annyeonghaseyo), I'm Jinsung Ha!
 
-[![Jinsung Ha's github stats](https://github-readme-stats.vercel.app/api?username=jha929&count_private=true)](https://github.com/jha929)
+---
+From your terminal,
+```bash
+pip install jinsung
+```
+Then,
 
-## Education
-**[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Jun 2019)  
-*MEng Computing (Artificial Intelligence)*  
+```python
+import jinsung
+```
 
-## Skills
-### Programming
-Python, Java, C/C++ 
+## Github Stats
 
-### Language 
-Korean, English
+---
+[![Jinsung Ha's Github Stats](https://github-readme-stats.vercel.app/api?username=jha929&count_private=true&show_icons=true)](https://github.com/jha929)
+[![Jinsung Ha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jha929&hide=jupyter%20notebook&hide_border=true&layout=compact)](https://github.com/jha929)
