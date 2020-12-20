@@ -9,9 +9,9 @@ class Me:
 
     @property
     def education(self) -> str:
-        degree = 'MEng Computing (Artificial Intelligence)'
-        where = 'Imperial College London'
-        when = '10.2014 - 06.2019'
+        degree: str = 'MEng Computing (Artificial Intelligence)'
+        where: str = 'Imperial College London'
+        when: str = '10.2014 - 06.2019'
         return ' | '.join([degree, where, when])
 
     @property
