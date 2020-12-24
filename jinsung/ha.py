@@ -4,8 +4,8 @@ from typing import Tuple
 
 class Me:
 
-    def greet(self):
-        print("Hello I'm Jinsung Ha!")
+    def __init__(self):
+        print('About Me - Jinsung Ha')
 
     @property
     def education(self) -> str:
