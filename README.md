@@ -1,16 +1,15 @@
 ## :nerd_face: About Me
 
 From your terminal,
-
 ```bash
 pip install jinsung
 ```
 Then in python shell,
-
 ```python
 import jinsung
 ```
 
+Briefly,
 ```python
 class Me:
 
@@ -29,6 +28,10 @@ class Me:
         company: str = 'LUXROBO'
         position: str = 'Backend Software Engineer'
         return company, position
+    
+    @property
+    def location(self) -> Tuple[float, float]:
+        return 37.5665, 126.9780
 
     @property
     def code(self) -> List[str]:
