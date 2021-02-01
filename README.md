@@ -40,9 +40,22 @@ class Me:
 [![Jinsung Ha's Github Stats](https://github-readme-stats.vercel.app/api?username=jha929&count_private=true&show_icons=true&hide_border=true)](https://github.com/jha929)
 [![Jinsung Ha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jha929&hide=jupyter%20notebook&hide_border=true&layout=compact)](https://github.com/jha929)
 
-## :hammer_and_wrench: Languages and Tools
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
+## :hammer_and_wrench: Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![TeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![Shell](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=GNU-Bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat-square&logo=jetbrains)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=flat-square&logoColor=white)
+![Vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=flat-square&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=flat-square&logoColor=white)
