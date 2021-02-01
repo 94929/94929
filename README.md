@@ -1,12 +1,8 @@
 ## :nerd_face: About Me
 
-From your terminal,
+To get to know about me:
 ```bash
-pip install jinsung
-```
-Then in python shell,
-```python
-import jinsung
+python -m pip install jinsung; python -c "import jinsung"
 ```
 
 Briefly,
