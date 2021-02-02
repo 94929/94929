@@ -22,7 +22,7 @@ class Me:
     @property
     def workspace(self) -> Tuple[str, str]:
         company: str = 'LUXROBO'
-        position: str = 'Machine Learning Engineer'
+        position: str = 'Machine Learning Engineer (전문연구요원)'
         return company, position
     
     @property
