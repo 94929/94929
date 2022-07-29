@@ -37,8 +37,8 @@ class Me:
 ```
 
 ## :chart_with_upwards_trend: Github Stats
-[![Jinsung Ha's Github Stats](https://github-readme-stats.vercel.app/api?username=jha929&count_private=true&show_icons=true&hide_border=true)](https://github.com/jha929)
-[![Jinsung Ha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jha929&hide=jupyter%20notebook&hide_border=true&layout=compact)](https://github.com/jha929)
+![](https://github.com/94929/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/94929/github-stats-transparent/blob/output/generated/languages.svg)
 
 ## :hammer_and_wrench: Technologies
 List of techs/tools that I'm familliar with:  
