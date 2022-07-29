@@ -19,7 +19,7 @@ setup(
     long_description='Who is Jinsung Ha? \n' + get_readme(),
     long_description_content_type='text/markdown',
     license='MIT',
-    url='https://github.com/jha929/jha929',
+    url='https://github.com/94929/94929',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
