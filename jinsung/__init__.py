@@ -1,12 +1,11 @@
-
 from textwrap import dedent
 
-from jinsung.ha import Me
+from jinsung.ha import JinsungHa
 
 
-me = Me()
+me = JinsungHa()
 about_me = dedent(
-    """
+    f"""
     Born on the 29th of September, 1994 in Seoul, South Korea. The only child.
     Met StarCraft I and Diablo II when I was 7. Love playing games since then.
     Skipped the first day of elementary school for playing StarCraft: Brood War.
@@ -18,8 +17,8 @@ about_me = dedent(
     Got accepted to Imperial College London which is 2nd best university in the world, according to QS world university rankings 2014.
     Majored in computer science, specialised in AI, from 2014 to 2019. The hardest time in my life.
     Graduated from the college, my country called me for duty. Decided to fulfil the duty as technical research personnel(전문연구요원).
-    Started working as a backend software engineer in AI team, for LUXROBO, a modular robotics startup.
-    Pursuing my career in machine learning, as a backend software engineer.
+    Started working as a software engineer in AI team, for LUXROBO, a modular robotics startup.
+    Pursuing my career in machine learning, as a software engineer.
     """.rstrip()
 )
 print(about_me)
