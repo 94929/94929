@@ -13,7 +13,7 @@ class Me:
         print('About Me - Jinsung Ha')
 
     @property
-    def workspace(self) -> Tuple[str, str]:
+    def workspace(self) -> tuple(str, str]):
         company: str = 'Dable'
         position: str = 'Software Engineer'
         return company, position
@@ -26,11 +26,11 @@ class Me:
         return ' | '.join([degree, where, when])
     
     @property
-    def location(self) -> Tuple[float, float]:
+    def location(self) -> tuple(float, float):
         return 37.5665, 126.9780
 
     @property
-    def code(self) -> List[str]:
+    def code(self) -> list[str]:
         return [
             'Python', 'Typescript', 'Java', 'C', 'Bash'
         ]
