@@ -14,8 +14,8 @@ class Me:
 
     @property
     def workspace(self) -> tuple[str, str]:
-        company: str = 'Dable'
-        position: str = 'Software Engineer'
+        company: str = 'Toss'
+        position: str = 'Machine Learning Software Engineer'
         return company, position
 
     @property
