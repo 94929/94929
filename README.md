@@ -26,7 +26,7 @@ class Me:
         return ' | '.join([degree, where, when])
 
     @property
-    def languages(self) -> tuple[str, str, str, str]:
+    def languages(self) -> tuple[str, ...]:
         return 'Python', 'Typescript', 'Java', 'C'
 ```
 
