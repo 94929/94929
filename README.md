@@ -2,38 +2,33 @@
 
 To get to know about me:
 ```bash
-python -m pip install jinsung; python -c "import jinsung"
+uv pip install jinsung; python -c "import jinsung"
 ```
 
 Briefly,
 ```python
 class Me:
 
-    def __init__(self):
-        print('About Me - Jinsung Ha')
+    @property
+    def name(self) -> str:
+        return 'Jinsung Ha'
 
     @property
     def workspace(self) -> tuple[str, str]:
-        company: str = 'Toss'
-        position: str = 'Machine Learning Software Engineer'
+        company: str = 'Viva Republica (Toss)'
+        position: str = 'Machine Learning Engineer'
         return company, position
 
     @property
     def education(self) -> str:
         degree: str = 'MEng Computing (Artificial Intelligence)'
         where: str = 'Imperial College London'
-        when: str = '10.2014 - 06.2019'
+        when: str = '10.2014 - 08.2019'
         return ' | '.join([degree, where, when])
-    
-    @property
-    def location(self) -> tuple[float, float]:
-        return 37.5665, 126.9780
 
     @property
-    def code(self) -> list[str]:
-        return [
-            'Python', 'Typescript', 'Java', 'C', 'Bash'
-        ]
+    def code(self) -> tuple[str]:
+        return 'Python', 'Typescript', 'Java', 'C', 'Bash'
 ```
 
 ## :chart_with_upwards_trend: Github Stats
