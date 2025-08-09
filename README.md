@@ -8,7 +8,6 @@ uv pip install jinsung; python -c "import jinsung"
 Briefly,
 ```python
 class Me:
-
     @property
     def name(self) -> str:
         return 'Jinsung Ha'
@@ -27,8 +26,8 @@ class Me:
         return ' | '.join([degree, where, when])
 
     @property
-    def code(self) -> tuple[str]:
-        return 'Python', 'Typescript', 'Java', 'C', 'Bash'
+    def languages(self) -> tuple[str, str, str, str]:
+        return 'Python', 'Typescript', 'Java', 'C'
 ```
 
 ## :chart_with_upwards_trend: Github Stats
